@@ -15,6 +15,6 @@ $stmt->store_result();
      $following_status = false;
  }
 
-
+// end
 
 ?>
