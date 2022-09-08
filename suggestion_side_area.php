@@ -7,7 +7,7 @@
 
     <?php if($suggestion['id'] != $_SESSION['id']){ ?>
 
-        <!--Suggestions-->
+        <!--Suggestions of users-->
         <div class="suggestion-card">
                 <div class="suggestion-pic">
                     <form id="suggestion_form<?php echo $suggestion['id'];?>" method="POST" action="other_user_profile.php">

@@ -46,7 +46,7 @@
 
     }else{
 
-            //default keyword
+            //default keywords
        
             $search_input = strval("%"."john"."%");
 

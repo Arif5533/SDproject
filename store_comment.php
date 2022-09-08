@@ -4,7 +4,7 @@ session_start();
 
 include("connection.php");
 
-
+// store comment
 if(isset($_POST['comment_btn'])){
 
   $user_id = $_SESSION['id'];

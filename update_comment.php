@@ -1,7 +1,7 @@
 <?php
 
 
-
+// update comment part
 include("connection.php");
 
 if(isset($_POST['update_comment_btn'])){

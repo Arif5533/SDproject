@@ -16,7 +16,7 @@ if(isset($_GET['post_id'])){
 
 
 
-          /** Get & Paginate Comments */
+          /** Get & Paginate Commentsss */
 
                 if( isset($_GET['page_no']) && $_GET['page_no'] != ""){
                     $page_no = $_GET['page_no'];

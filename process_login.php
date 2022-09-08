@@ -1,5 +1,7 @@
 <?php
 
+// login stores
+
 session_start();
 
 include('connection.php');

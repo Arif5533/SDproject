@@ -9,7 +9,7 @@
         include('connection.php');
 
 
-        //ids of posts a user liked
+        //ids of posts a user liked 
         $user_id = $_SESSION['id'];
         $stmt = $conn->prepare("SELECT post_id FROM likes WHERE user_id = ?");
         $stmt->bind_param("i",$user_id);

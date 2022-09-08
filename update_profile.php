@@ -21,7 +21,7 @@ if(isset($_POST['update_profile_btn'])){
 
 
     if($username != $_SESSION['username']){
-        //make sure that username is unique
+        //make sure that username is the unique
     
         $stmt = $conn->prepare("SELECT username FROM users WHERE username = ?");
 

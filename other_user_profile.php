@@ -16,12 +16,7 @@
          $_SESSION['other_user_id'] = $other_user_id;
      }
     
-    //  if(isset($_POST['other_user_id'])){
-    //     $other_user_id = $_POST['other_user_id'];
-    //     $_SESSION['other_user_id'] = $other_user_id;
-    // }else{
-    //     $other_user_id = $_SESSION['other_user_id'];
-    // }
+   
 
 
      $stmt = $conn->prepare("SELECT * FROM users WHERE id = ?");
