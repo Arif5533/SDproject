@@ -33,7 +33,7 @@ if(isset($_POST['upload_image_btn'])){
     if($stmt->execute()){
 
         
-        //store image in folder
+        //store image in folderr
         move_uploaded_file($image,"assets/imgs/".$image_name);
        
         //increase number of posts

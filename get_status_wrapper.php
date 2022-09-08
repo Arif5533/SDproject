@@ -1,6 +1,6 @@
 <?php include("get_my_followings.php");?>
 
-
+<!-- // followings status -->
 <?php if(!isset($other_people)) { ?>
 
 

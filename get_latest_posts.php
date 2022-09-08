@@ -16,7 +16,7 @@ $stmt->bind_result($total_posts);
 $stmt->store_result();
 $stmt->fetch();
 
-
+// per page 6 offset
 $total_posts_per_page = 6;
 
 $offset = ($page_no-1) * $total_posts_per_page;

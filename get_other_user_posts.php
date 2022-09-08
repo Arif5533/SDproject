@@ -52,7 +52,7 @@ $posts = $stmt->get_result();
 
 //   }else{
 
-//       $posts = [];
+//     
        
 //   }
 

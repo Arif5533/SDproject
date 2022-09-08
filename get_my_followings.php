@@ -19,7 +19,7 @@ include('connection.php');
         }
 
         
-        //I'm not following anyone
+        //I'm not following anyone,
        if(empty($ids)){
                
        }else{

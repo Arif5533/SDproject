@@ -42,7 +42,7 @@
        
         <div class="right-col">
 
-            <!--Profile card-->
+            <!--Profile card  with logout-->
             <?php include("profile_card.php");?>
           
 
