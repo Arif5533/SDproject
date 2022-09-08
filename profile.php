@@ -159,19 +159,6 @@
 
 <?php
 
-/* 
 
-Images
-
-https://www.tasteofhome.com/wp-content/uploads/2018/01/Strawberry-Cheesecake_EXPS_FT20_3270_F_0221_1-2.jpg
-
-https://natashaskitchen.com/wp-content/uploads/2020/05/Pefect-Cheesecake-7.jpg
-
-https://cdn.cnn.com/cnnnext/dam/assets/200402031651-shelter-in-place-california-0325-super-tease.jpg
-
-https://cdn.vox-cdn.com/thumbor/h30aDynYighEYIwexdTijwP2NLM=/55x0:944x667/1200x900/filters:focal(55x0:944x667)/cdn.vox-cdn.com/uploads/chorus_image/image/48120265/CapitolPark-115.0.jpg
-
-https://i.etsystatic.com/6772044/r/il/603758/1029288771/il_fullxfull.1029288771_8637.jpg
-*/
 
 ?>
